@@ -29,7 +29,7 @@ My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc Student
 
 - **Relevant courses**: Software Engineering - Algorithms & Data Structures - Web Technologies - Internet & Networks
 ## 👨🏼‍💻 Work Experience
-## 👨🏼‍💻 University Projects
+## 🔭 University Projects
 #### [`Ethics Analysis`](https://github.com/priscia99/TIS-project-ethics-analysis)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -82,6 +82,9 @@ My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc Student
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 - Simple **to-do list** website created with **Leonardo Mussato** ([`@LeonardoMussato`](https://github.com/LeonardoMussato)) to familiarize with **Firebase** cloud functions and **NoSQL** document-oriented databases with Firestore.
+
+## 🧩 Interests
+-  I enjoy **traveling** with friends or family! ✈️ During this year, I explored 4 previously unvisited countries: Finland🇫🇮, the Netherlands🇳🇱, Greece🇬🇷, and Egypt🇪🇬. Overall, my travels have taken me to a total of **17 different countries**. I'm eager to visit new countries as soon as possible!
 <!--
 **priscia99/priscia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
