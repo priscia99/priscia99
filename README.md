@@ -2,33 +2,24 @@
 
 My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc Student in *Computer Science & Engineering* at **Polytechnic University of Milan**, Italy. 🇮🇹
 
+I am currently working on my **thesis project** at [**Networked Embedded Software Lab (NESLab)**](https://www.neslab.it), focusing on creating a system for collecting and analyzing data through sensors by using **FIWARE** open-source technology.
+
 ## 📚 Education
 #### `M.Sc. in Computer Science & Engineering` @ **Polytechnic University of Milan**, Italy (2021-*present*)
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?logo=node-red&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)
 - **Relevant courses**: Distributed Systems - Networked Software for Distributed Systems - Technologies for Information Systems - Recommender Systems - Computer Security - Computing Infrastructures - Internet of Things
   
 #### `B.Sc. in Computer Science & Engineering` @ **Polytechnic University of Milan**, Italy (2018-2021)
-
-![Static Badge](https://img.shields.io/badge/C-%2300599C?logo=c)
-![Static Badge](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B)
-![Static Badge](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk)
-![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5)
-![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3)
-![Static Badge](https://img.shields.io/badge/VHDL-grey?logo=vhdl)
-![Static Badge](https://img.shields.io/badge/MySQL-%2300f?logo=mysql)
-![Static Badge](https://img.shields.io/badge/Thymeleaf-%23005C0F?logo=thymeleaf)
-
-
 - **Relevant courses**: Software Engineering - Algorithms & Data Structures - Web Technologies - Internet & Networks
-## 👨🏼‍💻 Work Experience
+## 💼 Work Experience
+
+#### `Back-end Developer` [@italianscodeitbetter-com](https://italianscodeitbetter.com)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-%23C21325?logo=jest&logoColor=white)
+- As a back-end developer at ItaliansCodeItBetter, I continuously help with the growth and development of startups! I contributed by deploying email, SMS and push notification systems, online payment management, user authentication, and management services. Further, I collaborate with cross-functional teams to understand and meet clients' needs. Let's work together to bring your ideas to life 🚀
 ## 🔭 University Projects
 #### [`Ethics Analysis`](https://github.com/priscia99/TIS-project-ethics-analysis)
 
@@ -83,8 +74,25 @@ My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc Student
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 - Simple **to-do list** website created with **Leonardo Mussato** ([`@LeonardoMussato`](https://github.com/LeonardoMussato)) to familiarize with **Firebase** cloud functions and **NoSQL** document-oriented databases with Firestore.
 
+## ⚙️ Other Technologies & Tools
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?logo=node-red&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+
+
 ## 🧩 Interests
--  I enjoy **traveling** with friends or family! ✈️ During this year, I explored 4 previously unvisited countries: Finland🇫🇮, the Netherlands🇳🇱, Greece🇬🇷, and Egypt🇪🇬. Overall, my travels have taken me to a total of **18 different countries**. I'm eager to visit new countries as soon as possible! *Still waiting for the passport...*
+- I enjoy **traveling** with friends or family! ✈️ During this year, I explored 4 previously unvisited countries: Finland🇫🇮, the Netherlands🇳🇱, Greece🇬🇷, and Egypt🇪🇬. Overall, my travels have taken me to a total of **18 different countries**. I'm eager to visit new countries as soon as possible! *Still waiting for the passport...*
+- I like teaching! 📖 I provide **computer science tutoring** to university students.
 <!--
 **priscia99/priscia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
