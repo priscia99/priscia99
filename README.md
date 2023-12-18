@@ -84,7 +84,7 @@ My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc Student
 - Simple **to-do list** website created with **Leonardo Mussato** ([`@LeonardoMussato`](https://github.com/LeonardoMussato)) to familiarize with **Firebase** cloud functions and **NoSQL** document-oriented databases with Firestore.
 
 ## 🧩 Interests
--  I enjoy **traveling** with friends or family! ✈️ During this year, I explored 4 previously unvisited countries: Finland🇫🇮, the Netherlands🇳🇱, Greece🇬🇷, and Egypt🇪🇬. Overall, my travels have taken me to a total of **18 different countries**. I'm eager to visit new countries as soon as possible!
+-  I enjoy **traveling** with friends or family! ✈️ During this year, I explored 4 previously unvisited countries: Finland🇫🇮, the Netherlands🇳🇱, Greece🇬🇷, and Egypt🇪🇬. Overall, my travels have taken me to a total of **18 different countries**. I'm eager to visit new countries as soon as possible! *Still waiting for the passport...*
 <!--
 **priscia99/priscia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
