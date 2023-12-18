@@ -1,4 +1,4 @@
-![Header](https://github.com/priscia99/priscia99/blob/main/github-header-image.png)
+![Header](https://github.com/priscia99/priscia99/blob/main/header.png)
 # Hi there 👋
 
 My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc Student in *Computer Science & Engineering* at **Polytechnic University of Milan**, Italy. 🇮🇹
