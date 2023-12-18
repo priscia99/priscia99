@@ -48,13 +48,35 @@ My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc Student
 - Website for a *telco* company that allows users to browse and purchase available service packages. Employees access an admin portal to manage plans, services, and view sales trends. Powered by **Java Servlets** and a relational database, it leverages MySQL to store user, service package, plan, and sales data efficiently.
 
 #### [`Indoor Localization using Wi-Fi RSSI Fingerprints Dataset`](https://github.com/priscia99/IOT-WI-finding-dory)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 - **Indoor localization** using a fingerprint dataset comprising RSSI values collected from six sniffer-anchors and the smartphone signals at the corresponding location. The dataset is fragmented within **MQTT** and **CoAP** packets, requiring data extraction, cleaning, and outlier removal for reconstruction. A Python-based model was developed to match measurements with database entries and infer smartphone location.
 
 #### [`Masters of Renaissance Board Game`](https://github.com/priscia99/progetto-ing-sw-2021)
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 - Implementation of the board game [Masters of the Renaissance](https://www.craniocreations.it/en/product/master-of-renaissance) for PC. The project consists of the creation of a system composed of a single server, capable of managing several games (organized in *lobbies*), to which several clients can connect via `CLI` or `GUI`. This project was developed in **Java** using **Model View Controller** architectural pattern.
 
 #### [`Online Auctions Website`](https://github.com/priscia99/TIW-project-online-auctions)
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Thymeleaf-%23005C0F?logo=thymeleaf)
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)
 - Platform that allows users to create and manage online auctions. To develop this project, we used Java servlets to handle users' requests and provide responses, MySQL to persist users, bids, auctions, and Thymeleaf, a server-side template engine, to render dynamic content such as auction details, list of bidders, item description and details.
+
+#### [`Histogram Image Equalizer - Digital Logic Design`](https://github.com/priscia99/digital-logic-design-project)
+
+![Static Badge](https://img.shields.io/badge/VHDL-grey?logo=vhdl)
+- This project aims to create a network of logic gates that implements a simplified version of the standard algorithm for the **histogram equalization** method of an image, by recalibrating the contrast of an image when the range of intensity values is very close together. The network was created by using the software **Vivado** and **VHDL** language to define the digital circuit design and its behavior.
+
+#### [`Text Editor with multiple Undo and Redo`](https://github.com/priscia99/progetto-algoritmi-strutture-dati)
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?logo=C)
+- Terminal-based **text editor** with traditional functionalities such as adding/removing lines, displaying the entire document (or part of it), and executing other commands like *undo* and *redo*. *(Project Overview in Italian)*
+
 ## 👨🏼‍💻 Personal Projects
 <!--
 **priscia99/priscia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
