@@ -78,6 +78,10 @@ My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc Student
 - Terminal-based **text editor** with traditional functionalities such as adding/removing lines, displaying the entire document (or part of it), and executing other commands like *undo* and *redo*. *(Project Overview in Italian)*
 
 ## 👨🏼‍💻 Personal Projects
+#### [`Todol1st.com`](https://todol1st.com)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+- Simple **to-do list** website created with **Leonardo Mussato** ([`@LeonardoMussato`](https://github.com/LeonardoMussato)) to familiarize with **Firebase** cloud functions and **NoSQL** document-oriented databases with Firestore.
 <!--
 **priscia99/priscia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
