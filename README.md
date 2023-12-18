@@ -101,8 +101,8 @@ I am currently working on my **thesis project** at [**Networked Embedded Softwar
 - I like teaching! 📖 I provide **computer science tutoring** to university students.
 
 ## 📫 Connect with me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-prisciantelli/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreaprisciantelli@gmail.com)
 <!--
 **priscia99/priscia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
