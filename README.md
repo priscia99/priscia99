@@ -19,6 +19,7 @@ I am currently working on my **thesis project** at [**Networked Embedded Softwar
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-%23C21325?logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)
 - As a back-end developer at ItaliansCodeItBetter, I continuously help with the growth and development of startups! I contributed by deploying email, SMS and push notification systems, online payment management, user authentication, and management services. Further, I collaborate with cross-functional teams to understand and meet clients' needs. Let's work together to bring your ideas to life 🚀
 ## 🔭 University Projects
 #### [`Ethics Analysis`](https://github.com/priscia99/TIS-project-ethics-analysis)
@@ -83,16 +84,25 @@ I am currently working on my **thesis project** at [**Networked Embedded Softwar
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white)
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
 
 ## 🧩 Interests
 - I enjoy **traveling** with friends or family! ✈️ During this year, I explored 4 previously unvisited countries: Finland🇫🇮, the Netherlands🇳🇱, Greece🇬🇷, and Egypt🇪🇬. Overall, my travels have taken me to a total of **18 different countries**. I'm eager to visit new countries as soon as possible! *Still waiting for the passport...*
 - I like teaching! 📖 I provide **computer science tutoring** to university students.
+
+## 📫 Connect with me
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <!--
 **priscia99/priscia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
