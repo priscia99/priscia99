@@ -23,7 +23,7 @@ I am currently working on my **thesis project** at [**Networked Embedded Softwar
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)
 - As a back-end developer at ItaliansCodeItBetter, I continuously help with the growth and development of startups! I contributed by deploying email, SMS and push notification systems, online payment management, user authentication, and management services. Further, I collaborate with cross-functional teams to understand and meet clients' needs. Let's work together to bring your ideas to life 🚀
 ## 🔭 University Projects
-#### [`Ethics Analysis`](https://github.com/priscia99/TIS-project-ethics-analysis)
+#### [`Ethics & Fairness Analysis Notebook for Health Research`](https://github.com/priscia99/TIS-project-ethics-analysis)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
