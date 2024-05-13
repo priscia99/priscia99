@@ -6,7 +6,7 @@ My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc Student
 I am currently working on my **thesis project** at [**Networked Embedded Software Lab (NESLab)**](https://www.neslab.it), focusing on creating a system for collecting and analyzing data through sensors by using **FIWARE** open-source technology.
 
 ## 📚 Education
-#### `M.Sc. in Computer Science & Engineering` @ **Polytechnic University of Milan**, Italy (2021-*present*)
+#### `M.Sc. in Computer Science & Engineering` @ **Polytechnic University of Milan**, Italy (2021-2024)
 - **Relevant courses**: Distributed Systems - Networked Software for Distributed Systems - Technologies for Information Systems - Recommender Systems - Computer Security - Computing Infrastructures - Internet of Things
   
 #### `B.Sc. in Computer Science & Engineering` @ **Polytechnic University of Milan**, Italy (2018-2021)
