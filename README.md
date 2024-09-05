@@ -98,7 +98,7 @@ I graduated in April 2024 with my final thesis named **"StreamWARE: Enabling Eff
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
 
 ## 🧩 Interests
-- I enjoy **traveling** with friends or family! ✈️ During this year, I explored 4 previously unvisited countries: Finland🇫🇮, the Netherlands🇳🇱, Greece🇬🇷, and Egypt🇪🇬. Overall, my travels have taken me to a total of **18 different countries**. I'm eager to visit new countries as soon as possible! *Still waiting for the passport...*
+- I enjoy **traveling** with friends or family! ✈️ During this year, I visited 3 new countries: **Indonesia**🇮🇩, **United Arab Emirates**🇦🇪, and **Turkey**🇹🇷. Overall, my travels have taken me to a total of **21 different countries**. I'm eager to visit new countries as soon as possible!
 - I like teaching! 📖 I provide **computer science tutoring** to university students.
 
 ## 📫 Connect with me
