@@ -1,7 +1,7 @@
 ![Header](https://github.com/priscia99/priscia99/blob/main/header.png)
 # Hi there 👋
 
-My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc Student in *Computer Science & Engineering* at **Polytechnic University of Milan**, Italy. 🇮🇹
+My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc graduated at **Polytechnic University of Milan**, Italy. 🇮🇹
 
 I graduated in April 2024 with my final thesis named **"StreamWARE: Enabling Efficient Stream Processing in FIWARE"**, aimed to enhance data streaming functionality within the EU-funded **FIWARE** IoT platform.
 
@@ -13,7 +13,7 @@ I graduated in April 2024 with my final thesis named **"StreamWARE: Enabling Eff
 - **Relevant courses**: Software Engineering - Algorithms & Data Structures - Web Technologies - Internet & Networks
 ## 💼 Work Experience
 
-#### `Back-end Developer` [@italianscodeitbetter-com](https://italianscodeitbetter.com)
+#### `Sofware Engineer` [@italianscodeitbetter-com](https://icib.dev)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
@@ -22,6 +22,17 @@ I graduated in April 2024 with my final thesis named **"StreamWARE: Enabling Eff
 ![Jest](https://img.shields.io/badge/-Jest-%23C21325?logo=jest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)
 - As a back-end developer at ItaliansCodeItBetter, I continuously help with the growth and development of startups! I contributed by deploying email, SMS and push notification systems, online payment management, user authentication, and management services. Further, I collaborate with cross-functional teams to understand and meet clients' needs. Let's work together to bring your ideas to life 🚀
+
+#### `Software Engineer & Team Leader` [@Iriscube Reply](https://www.reply.com/iriscube-reply/en/)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=springboot&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%23C21325?logo=junit5&logoColor=white)
+
+- As Team Leader at Iriscube Reply, I led the design and development of enterprise-grade backend systems, coordinating development activities and ensuring high-quality delivery standards. I worked extensively with Java and Spring Boot to build scalable RESTful APIs, documented through Swagger. I managed relational databases using MySQL and structured development workflows through Jira. I also promoted best practices in testing, implementing comprehensive unit testing strategies with JUnit to ensure code reliability and maintainability.
+
 ## 🔭 University Projects
 #### [`Ethics & Fairness Analysis Notebook for Health Research`](https://github.com/priscia99/TIS-project-ethics-analysis)
 
