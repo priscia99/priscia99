@@ -5,12 +5,6 @@ My name is **Andrea Prisciantelli** and I am a Software Engineer and MSc graduat
 
 I graduated in April 2024 with my final thesis named **"StreamWARE: Enabling Efficient Stream Processing in FIWARE"**, aimed to enhance data streaming functionality within the EU-funded **FIWARE** IoT platform.
 
-## 📚 Education
-#### `M.Sc. in Computer Science & Engineering` @ **Polytechnic University of Milan**, Italy (2021-2024)
-- **Relevant courses**: Distributed Systems - Networked Software for Distributed Systems - Technologies for Information Systems - Recommender Systems - Computer Security - Computing Infrastructures - Internet of Things
-  
-#### `B.Sc. in Computer Science & Engineering` @ **Polytechnic University of Milan**, Italy (2018-2021)
-- **Relevant courses**: Software Engineering - Algorithms & Data Structures - Web Technologies - Internet & Networks
 ## 💼 Work Experience
 
 #### `Sofware Engineer` [@italianscodeitbetter-com](https://icib.dev)
@@ -32,6 +26,13 @@ I graduated in April 2024 with my final thesis named **"StreamWARE: Enabling Eff
 ![JUnit](https://img.shields.io/badge/JUnit-%23C21325?logo=junit5&logoColor=white)
 
 - As Team Leader at Iriscube Reply, I led the design and development of enterprise-grade backend systems, coordinating development activities and ensuring high-quality delivery standards. I worked extensively with Java and Spring Boot to build scalable RESTful APIs, documented through Swagger. I managed relational databases using MySQL and structured development workflows through Jira. I also promoted best practices in testing, implementing comprehensive unit testing strategies with JUnit to ensure code reliability and maintainability.
+
+## 📚 Education
+#### `M.Sc. in Computer Science & Engineering` @ **Polytechnic University of Milan**, Italy (2021-2024)
+- **Relevant courses**: Distributed Systems - Networked Software for Distributed Systems - Technologies for Information Systems - Recommender Systems - Computer Security - Computing Infrastructures - Internet of Things
+  
+#### `B.Sc. in Computer Science & Engineering` @ **Polytechnic University of Milan**, Italy (2018-2021)
+- **Relevant courses**: Software Engineering - Algorithms & Data Structures - Web Technologies - Internet & Networks
 
 ## 🔭 University Projects
 #### [`Ethics & Fairness Analysis Notebook for Health Research`](https://github.com/priscia99/TIS-project-ethics-analysis)
