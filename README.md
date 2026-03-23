@@ -7,7 +7,7 @@ I graduated in April 2024 with my final thesis named **"StreamWARE: Enabling Eff
 
 ## 💼 Work Experience
 
-#### `Sofware Engineer` [@italianscodeitbetter-com](https://icib.dev)
+#### `Solution Architect` [@italianscodeitbetter-com](https://icib.dev)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
